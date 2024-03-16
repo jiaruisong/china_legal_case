@@ -23,9 +23,3 @@ This project employs advanced data analysis techniques to investigate the dispar
 ## Contribution
 
 This project is open for collaboration. If you have expertise in computer science, data science, law, or any related field, and are interested in contributing to a meaningful analysis of legal resource disparity, please reach out.
-
-*Note: The project description mentions an update needed regarding more computer science-related experience. This can be addressed by detailing specific technologies, methodologies, or projects related to CS that support the project's goals.*
-
----
-
-Feel free to adjust the content according to your actual project details or personal preferences. If you need to include any specific GitHub Markdown elements or have additional sections to add, such as installation instructions, usage examples, or contributing guidelines, you can easily insert them into the template provided above.
