@@ -1,5 +1,7 @@
 # China's Urban-Rural Disparities in Legal Resources: A Data-Driven Approach
 
+<!-- fix needed: add data factory and claude -->
+
 **Project Lead:** Rey Jiarui Song, Nanqin Ying, UC Berkeley  
 **Duration:** 2024 - Present
 
